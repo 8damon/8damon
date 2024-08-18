@@ -1,22 +1,52 @@
-# Hey, I'm Damon 👋
+# Hi, I'm Damon ⚡
 
-I'm a programmer and cybersec enthusiast with a focus on creating innovative and secure solution, I'm currently involved in; Pentesting, Reverse engineering, exploit development and low level programming.
+I'm a programmer and cybersecurity enthusiast dedicated to developing secure and innovative products. I'm currently involved in pentesting, reverse engineering and low-level programming.
 
-## Tech Stack ⚒️
-- **Languages**: Javascript, Python, Rust, C#, C++
-- **Operating System**: Windows 10/11.
-- **Tools**: VMWare, IDA, Ghidra, SysInternals, VS, VSC, JetBrains, Docker, 
+### Contact 📩
 
-## Currently Learning 🎓
-- **Certificate**: Cert IV in Cybersecurity (Pre-Diploma)
-- **CompTIA**: CySA+
+- **Discord:** [8.damon](https://discordapp.com/users/8.damon)
+- **Telegram:** 8.damon
+- **Email:** [redacted@example.invalid](mailto:redacted@example.invalid)
+- **LinkT:** [Feds.lol](https://github.com/8damon)
 
-## Projects 📚
-- **TITAN Softwork Solutions**: A robust executor to counter Hyperion.
-- **DSEC-Armor**: An advanced moderation for Discord with build in Anti-Raid & Anti-Spam functionality.
+### Commissions 💸
 
+I take private commissions directly through Crypto & Robux. I provide prolonged support, future fixes, and a fully customizable development experience. I'm experienced with both Windows and browser scripting and I'll code you almost anything. I prefer software development. I'm also capable of making fully integrated Discord bots (Discord.js) or Telegram bot with a guide for hosting them non-locally. Payment will be fully dependent on the project.
 
-## Find Me 📲
-- **[Discord](8.damon)
-- **[Feds.lol](https://github.com/8damon)**
-- **[Email](redacted@example.invalid)**
+![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white)![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white)![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white)![Robux](https://img.shields.io/badge/Robux-green?style=flat-square&logo=roblox&logoColor=white)
+
+## ⚙️ Tech Stack
+
+### Programming Languages & Experience
+
+| **Language**  | **Experience**  | **Info**                                                                 |
+|---------------|-----------------|--------------------------------------------------------------------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) | **Advanced**       | Browser scripting, APIs, Discord bots, Electron UIs, network-related programs. |
+| ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)             | **Advanced**       | Simple programs, automation, reversing, encryption/decryption.                  |
+| ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white)           | **Advanced**       | Low-level programming, applications, simple drivers, streamlined programs.      |
+| ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=white)                 | **Intermediate**   | Programs that rely on safe & secure memory management.                          |
+| ![C#](https://img.shields.io/badge/-C%23-purple?style=flat-square&logo=csharp&logoColor=white)                 | **Intermediate**   | UI/GUI development, WPF, Fluent WPF, network-related programs.                  |
+| ![HTML & CSS](https://img.shields.io/badge/-HTML%20%26%20CSS-red?style=flat-square&logo=html5&logoColor=white&labelColor=red) | **Intermediate**       | Creating and styling webpages.                                                   |
+| ![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js&logoColor=white)                 | **Beginner**       | Single-page applications, minimal experience.                                   |
+
+### 🖥️ Development
+
+| **Category**         | **Tools**                                                                                                                                               |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Virtualization**   | ![VMWare](https://img.shields.io/badge/-VMWare-orange?style=flat-square&logo=vmware&logoColor=white)  |
+| **Reverse Engineering** | ![IDA](https://img.shields.io/badge/-IDA-pink?style=flat-square&logo=ida&logoColor=white) ![Ghidra](https://img.shields.io/badge/-Ghidra-darkred?style=flat-square&logo=ghidra&logoColor=white) |
+| **Development**      | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visualstudio&logoColor=white) ![JetBrains](https://img.shields.io/badge/-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white) ![VMProtect](https://img.shields.io/badge/-VMProtect-orange?style=flat-square&logo=vmprotect&logoColor=white) ![Themida](https://img.shields.io/badge/-Themida-skyblue?style=flat-square&logo=themida&logoColor=white) |
+| **Operating System** | ![Windows](https://img.shields.io/badge/-Windows-0078d4?style=flat-square&logo=windows&logoColor=white)                                                                  |
+
+## 🎓 Certifications
+
+![Cert IV in Cybersecurity](https://img.shields.io/badge/Cert_IV-Cybersecurity-blue?style=flat-square)
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?style=flat-square)
+
+## 📦 Projects
+
+| **Alias**                | **About**                                                                                               | **Icon**                                                                                                                              |
+|--------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| **[TITAN Softworks Solutions](https://titansoftwork.com)** | A robust exc & spoofer to counter Hyperion. [Join the Discord](https://titansoftwork.com) | <img src="https://cdn.discordapp.com/icons/1240608336005828668/c1bf74f2566a9ab188447ef8ce679b4d.webp?size=1024&format=webp" alt="TITAN Icon" width="50" height="50"> |
+| **[DSEC-Armor](https://github.com/8damon/DSEC-Armor/)**   | An advanced moderation bot for Discord with built-in Anti-Raid & Anti-Spam functionality.         |                                                                                                                                     |
+| **[RobloxPy](https://github.com/8damon/RobloxPy/)**       | A Python API Wrapper for Roblox.                                                                 |                                                                                                                                     |
