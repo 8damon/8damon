@@ -6,7 +6,7 @@ I'm a programmer and cybersecurity enthusiast dedicated to developing better pro
   <summary>📩 Contact</summary>
 
   - **Discord:** [8.damon](https://discordapp.com/users/8.damon)
-  - **Telegram:** 8.damon
+  - **Telegram:** swedishpsyched
   - **Email:** [redacted@example.invalid](mailto:redacted@example.invalid)
   - **LinkT:** [Feds.lol](https://github.com/8damon)
 
