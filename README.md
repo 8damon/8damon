@@ -49,9 +49,9 @@ I'm a fullstack backend programmer & CS student. I'm invovled in pentesting, vul
 <details>
   <summary>📦 Projects</summary>
 
-  | **Alias**                | **About**                                                                                               | **Icon**                                                                                                                              |
-  |--------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-  | **[TITAN Softworks Solutions](https://titansoftwork.com)** | Multiple software solutions, including my open source spoofer. [Join the Discord](https://titansoftwork.com) | <img src="https://cdn.discordapp.com/icons/1240608336005828668/c1bf74f2566a9ab188447ef8ce679b4d.webp?size=1024&format=webp" alt="TITAN Icon" width="50" height="50"> |                                     
-  | **[RobloxPy]([https://github.com/8damon/RobloxPy/](https://github.com/8damon/RobloxPy-Roblox-API-Wrapper)**       | A Python API Wrapper for Roblox.                                                                 |                                                                                                                                     |
+  | **Alias**                                          | **About**                                                                                               | **Icon**                                                                                                                              |
+  |----------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+  | **[TITAN Softworks Solutions](https://titansoftwork.com)** | Multiple software solutions, including my open source spoofer. [Join the Discord](https://titansoftwork.com) | <img src="https://cdn.discordapp.com/icons/1240608336005828668/c1bf74f2566a9ab188447ef8ce679b4d.webp?size=1024&format=webp" alt="TITAN Icon" width="50" height="50"> |                  
+  | **[RobloxPy](https://github.com/8damon/RobloxPy-Roblox-API-Wrapper)** | A Python API Wrapper for Roblox.                                                                 |                                                                                                                                     |
 
 </details>
