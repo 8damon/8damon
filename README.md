@@ -1,8 +1,6 @@
 # Hi. I'm Damon
 
-fullstack programmer & CS student, Invovled in pentesting, vuln assesment & security research
-
-# ⚙️ Languages
+# 🖥️ Languages
 
   | **Lang**  | **Level**  | **Info**                                                                 |
   |---------------|-----------------|--------------------------------------------------------------------------|
@@ -21,14 +19,13 @@ fullstack programmer & CS student, Invovled in pentesting, vuln assesment & secu
   ![CompTIA A++](https://img.shields.io/badge/CompTIA-A+%2B-blue?style=flat-square)
   ![CompTIA Basic](https://img.shields.io/badge/CompTIA-Basic%2B-blue?style=flat-square)
 
+# 👤 Private Commissions
 
-# 📩 Contact
+![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white) ![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white) ![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white) ![Robux](https://img.shields.io/badge/Robux-gold?style=flat-square&logo=roblox&logoColor=white)
+
+# 📲 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-8.damon-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/8.damon)
 [![Telegram](https://img.shields.io/badge/Telegram-8.damon-2CA5E0?logo=telegram&logoColor=white&style=flat-square)]()
 [![Email](https://img.shields.io/badge/Email-hat3damon%40gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:redacted@example.invalid)
 [![LinkT](https://img.shields.io/badge/Feds.lol-morgue-000000?logo=linktree&logoColor=white&style=flat-square)](https://github.com/8damon)
-
-# 👤 Private Commissions
-
-  ![BTC](https://img.shields.io/badge/BTC-orange?style=flat-square&logo=bitcoin&logoColor=white) ![LTC](https://img.shields.io/badge/LTC-blue?style=flat-square&logo=litecoin&logoColor=white) ![ETH](https://img.shields.io/badge/ETH-gray?style=flat-square&logo=ethereum&logoColor=white) ![Robux](https://img.shields.io/badge/Robux-gold?style=flat-square&logo=roblox&logoColor=white)
