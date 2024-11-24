@@ -1,7 +1,5 @@
 # Hi, I'm Damon
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8damon&label=Profile%20views&color=8caaee&style=for-the-badge" alt="8damon's profile views" /> </p>
-
 # 🖥️ Languages
 
 | **Language**                                                                 | **Proficiency**    |
