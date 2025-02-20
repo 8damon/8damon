@@ -3,7 +3,6 @@
 Cybersecurity student & certified in CS50, CySA, ITF+
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=8damon&theme=dark&hide_border=true&background=00000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8damon&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" />
 </p>
 
