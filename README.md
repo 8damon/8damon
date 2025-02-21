@@ -20,3 +20,4 @@ Pricing varies depending on project. Crypto, Paypal, BSB, Overseas.
 ## Contact
 
 [![Discord](https://custom-icon-badges.herokuapp.com/badge/Discord-8.damon-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/8.damon)  
+[![Telegram](https://img.shields.io/badge/Telegram-%408.damon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/8.damon)
