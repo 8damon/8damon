@@ -13,14 +13,13 @@ Founder @**TITAN Softwork Solutions**
 
 ---
 
-## 4 Hire
+## For hire / Contracting
 
 Overseas/BSB/Crypto. For inquiries contact@titansoftwork.com, to fasttrack contact me via Discord or Telegram directly.
 
 ---
 
-## Contact
+## Find me
 
 [![Email](https://img.shields.io/badge/Email-damon%40titansoftwork.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damon@titansoftwork.com)
-[![Discord](https://custom-icon-badges.herokuapp.com/badge/Discord-8.damon-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/8.damon)  
-[![Telegram](https://img.shields.io/badge/Telegram-%408.damon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/8.damon)
+[![Discord](https://custom-icon-badges.herokuapp.com/badge/Discord-8.damon-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/8.damon)
