@@ -1,10 +1,5 @@
 ### 06'
 
-My projects are my experience
-- [ActiveBreach](https://github.com/8damon/ActiveBreach-Engine)
-- [SysQuanta](https://github.com/8damon/SysQuanta)
-- [Sierra](https://github.com/8damon/Sierra-Hooking-Framework)
-
 Bachelor student · Cyber Cert IV · CySA · CS50x · ITF+
 
 ## CEO @TITAN SOFTWORK SOLUTIONS
