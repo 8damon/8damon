@@ -6,7 +6,7 @@ Inquire @ contact@titansoftwork.com
 
 ---
 
-### WIP OSS Projects:
+### WIP OSS Projects
 
 - Anti-Tamper Demo
 - JIT Page Encryption PoC
