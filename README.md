@@ -14,3 +14,5 @@
 ---
 
 ![Metrics](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.svg)
+![Languages](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.languages.svg)
+
