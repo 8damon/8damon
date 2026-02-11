@@ -10,8 +10,3 @@
 - **Tooling:** Visual Studio, Visual Studio Code, RustRover
 
 **Contact:** [damon@titansoftwork.com](mailto:damon@titansoftwork.com)
-
----
-
-![Languages](https://raw.githubusercontent.com/8damon/dutchpsycho/generated/metrics.languages.svg)
-![Metrics](https://raw.githubusercontent.com/8damon/dutchpsycho/generated/metrics.svg)
