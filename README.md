@@ -11,4 +11,6 @@
 
 **Contact:** [damon@titansoftwork.com](mailto:damon@titansoftwork.com)
 
-![Metrics](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.svg)
+![Header](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.header.svg)
+![Languages](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.languages.svg)
+![Notable](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.notable.svg)
