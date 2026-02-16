@@ -8,6 +8,5 @@
 - **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA (rule-based detection), SIGMA, MITRE ATT&CK® (Threat-Hunting), Splunk (SIEM)
 - **CloudSec:** AWS IAM, Vultur
 - **Networking:** UFW setup, TailScale, Cockpit RSMS, Wireshark, CISCO Packer Tracer, MSF
-- **Tooling:** Visual Studio, Visual Studio Code, RustRover
 
 **Contact:** [damon@titansoftwork.com](mailto:damon@titansoftwork.com)
