@@ -10,7 +10,3 @@
 - **Networking:** UFW setup, TailScale, Cockpit RSMS, Wireshark, CISCO Packer Tracer, MSF
 
 **Contact:** [damon@titansoftwork.com](mailto:damon@titansoftwork.com)
-
-![Header](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.header.svg)
-![Languages](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.languages.svg)
-![Notable](https://raw.githubusercontent.com/8damon/8damon/generated/metrics.notable.svg)
