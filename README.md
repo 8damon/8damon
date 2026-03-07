@@ -1,6 +1,6 @@
 ### Student · Cyber Cert IV · CySA · CS50x · ITF+
 
-- **Languages:** Modern C++ (17), C, Rust, Python, JavaScript, Powershell, Batch, SQL, Three.js, WebGL
+- **Languages:** Modern C++ (17), C, Rust, C#/.NET, Python, JavaScript, Powershell, Batch, SQL, Three.js, WebGL
 - **Devops**: Github, CI & CD, Docker, K8s, testing & integration testing
 - **Platforms:** Windows, Linux, QEMU/KVM (x86_64), VMware
 - **Windows:** Kerberos, WinAPI, NtAPI, Windows-Performance-Analyzer (WPA), Event-Tracing for Windows (ETW) Windows-Management-Interface (WMI), Component-Object-Model (COM), Kernel-Mode Driver-Framework (KMDF), IOCTL's, KPP (Kernel-Patch Protection)
