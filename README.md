@@ -10,7 +10,7 @@ Aspiring Support Desker/SOC
 - **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA (rule-based detection), SIGMA, MITRE ATT&CK® (Threat-Hunting), Splunk (SIEM)
 - **CloudSec:** AWS IAM, Vultur
 - **Networking:** UFW setup, PfSense, TailScale, Cockpit RSMS, Wireshark, CISCO Packer Tracer, MSF
-- 
+
 ### Cyber Cert IV · CS50x · ITF+
 
 **Contact:** [damon@titansoftwork.com](mailto:damon@titansoftwork.com)
