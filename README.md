@@ -2,10 +2,10 @@ Aspiring Support Desker/SOC
 
 ### [Writeups](https://titansoftwork.com/insight/)
 
-- **Languages:** C++, C, Rust, C#/.NET 9.0, Python, JavaScript, Powershell, Batch, SQL, Three.js, WebGL
+- **Languages:** C++, C, Rust, x64, C#/.NET 9.0, Python, JavaScript, Powershell, Batch, SQL, Three.js, WebGL
 - **Devops**: Github, CI & CD, Docker, K8s
 - **Platforms:** Windows, Linux (Ubuntu, Debian), QEMU/KVM (x86_64), VMware
-- **Windows:** Kerberos, Windows API, Windows-Performance-Analyzer (WPA), Event-Tracing for Windows (ETW) Windows-Management-Interface (WMI), Component-Object-Model (COM), WDF/Kernel-Mode Driver-Framework (KMDF)
+- **Windows:** Kerberos, Windows API, Windows-Performance-Analyzer (WPA), Event-Tracing for Windows (ETW) Windows-Management-Interface (WMI), Component-Object-Model (COM), WDF/Kernel-Mode Driver-Framework (KMDF), HypervisorWorks
 - **Reverse engineering:** IDA Pro, Ghidra, WinDbg, Binary Ninja, Frida, Sysmon
 - **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA (rule-based detection), SIGMA, MITRE ATT&CK® (Threat-Hunting), Splunk (SIEM)
 - **CloudSec:** AWS IAM, Vultur
