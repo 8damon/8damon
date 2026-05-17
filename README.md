@@ -1,4 +1,4 @@
-Aspiring Support Desker/SOC
+2yr+ Skunkworks Cycle
 
 ### [Writeups](https://titansoftwork.com/insight/)
 
