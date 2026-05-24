@@ -2,14 +2,14 @@
 
 ### [Writeups](https://titansoftwork.com/insight/)
 
-- **Languages:** C++, C, Rust, x64, C#/.NET 9.0, Python, JavaScript, Powershell, Batch, SQL, Three.js, WebGL
-- **Devops**: Github, CI & CD, Docker, K8s
-- **Platforms:** Windows, Linux (Ubuntu, Debian), QEMU/KVM (x86_64), VMware
-- **Windows:** Kerberos, Windows API, Windows-Performance-Analyzer (WPA), Event-Tracing for Windows (ETW) Windows-Management-Interface (WMI), Component-Object-Model (COM), WDF/Kernel-Mode Driver-Framework (KMDF), HypervisorWorks
-- **Reverse engineering:** IDA Pro, Ghidra, WinDbg, Binary Ninja, Frida, Sysmon
-- **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA (rule-based detection), SIGMA, MITRE ATT&CK® (Threat-Hunting), Splunk (SIEM)
+- **Languages:** C++, C, Rust, x64 Assembly, C#/.NET 9.0, Python, JavaScript, Powershell, Batch, SQL, Three.js, WebGL
+- **Development**: Visual Studio, VSCode, RustRover, Github, CI & CD, Docker, K8s
+- **Platforms:** Windows, Linux (Ubuntu, Debian, Kali), QEMU/KVM (x86_64), VMware
+- **Windows:** Windows API, Powershell, Event-Tracing for Windows (ETW), Active Directory (AD), Windows-Management-Interface (WMI), Component-Object-Model (COM), WDF/Kernel-Mode Driver-Framework (KMDF), Hyper-V
+- **Reverse engineering:** RESX, IDA Pro, WinDbg, Binary Ninja, Frida, Sysmon
+- **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA, SIGMA, MITRE ATT&CK® (Threat-Hunting), Splunk (SIEM)
 - **CloudSec:** AWS IAM, Vultur
-- **Networking:** UFW setup, PfSense, TailScale, Cockpit RSMS, Wireshark, CISCO Packer Tracer, MSF
+- **Networking:** CISCO Packer Tracer, Physical Cisco Network Setup, Windows Firewall, UFW, PfSense, TailScale, Cockpit RSMS, Wireshark 
 
 ### Cyber Cert IV · CS50x · ITF+
 
