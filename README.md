@@ -9,7 +9,7 @@
 - **Reverse engineering:** RESX, IDA Pro, WinDbg, Binary Ninja, Frida, Sysmon
 - **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA, SIGMA, MITRE ATT&CK® (Threat-Hunting), Splunk (SIEM)
 - **CloudSec:** AWS IAM, Vultur
-- **Networking:** CISCO Packer Tracer, Physical Cisco Network Setup, Windows Firewall, UFW, PfSense, TailScale, Cockpit RSMS, Wireshark 
+- **Networking:** CISCO Packer Tracer, Fortinet, Physical Cisco Network Setup, Windows Firewall, UFW, PfSense, TailScale, Cockpit RSMS, Wireshark 
 
 ### Cyber Cert IV · CS50x · ITF+
 
