@@ -1,4 +1,4 @@
-2yr+ Skunkworks Cycle
+Windows Security Eng, Malware Analysis & Response, Reverse-Eng, Software-Dev and Integration Pipelines
 
 ### [Writeups](https://titansoftwork.com/insight/)
 
