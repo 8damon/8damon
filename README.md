@@ -2,7 +2,7 @@ Windows Security Engineering, Malware Analysis & Response, Reverse Engineering, 
 
 ### [Writeups](https://titansoftwork.com/insight/)
 
-* **Secure Infrastructure:** Developed an internal network control plane with RBAC, MFA, login portals, encrypted data handling, rate limiting, audit logging, network segmentation, cross-machine VM discovery, and scoped remote shell execution.
+- **Secure Infrastructure:** Developed an internal network control plane with RBAC, MFA, login portals, encrypted data handling, rate limiting, audit logging, network segmentation, cross-machine VM discovery, and scoped remote shell execution.
 - **Languages:** C++, C, Rust, x64 Assembly, C#/.NET 9.0, Python, JavaScript, Powershell, Batch, SQL, Three.js, WebGL
 - **Policies** SOC-200, OWASP ASVS
 - **Development**: Visual Studio, VSCode, RustRover, GitHub, CI/CD, Docker, K8s
