@@ -1,19 +1,20 @@
-Windows Security Engineering, Malware Analysis & Response, Reverse Engineering, Software Development, Secure Infrastructure, and Internal Operations Platforms
+Windows Security Engineering, Malware Analysis & Response, Reverse Engineering, Secure Software Development, Secure Infrastructure, and Internal Operations Platforms.
 
-### [Writeups](https://titansoftwork.com/insight/)
+### [Technical Writeups](https://titansoftwork.com/insight/)
 
-- **Secure Infrastructure:** Internal Networks, RBAC, 2FA/MFA, SSO, Encrypted Data Handling, Rate-limiting, Reverse-Proxy, CSRF & Session Management
-- **Languages:** C++, C, Rust, x64 Assembly, C#/.NET 9.0, Python, JavaScript, Powershell, Batch, SQL, Three.js, KQL, WebGL
-- **Policies** SOC-200, OWASP ASVS, NIST-CSF 2.0
-- **Development**: Visual Studio, VSCode, RustRover, GitHub, CI/CD, Docker, K8s
-- **Platforms:** Windows (Enterprise, Server Core), Linux (Ubuntu Server, Debian, Kali), KVM (x86_64), VMware, Proxmox VE
-- **Windows:** Windows API, Powershell, Event-Tracing for Windows (ETW), Active Directory (AD), Windows-Management-Interface (WMI), Component-Object-Model (COM), WDF/Kernel-Mode Driver-Framework (KMDF), EPT
-- **Linux:** AIDE, Suricata, LXD, Libvirt/QEMU, strace, nftables, Cockpit
-- **Reverse engineering:** RESX, IDA Pro, WinDbg, Binary Ninja, Frida, Sysmon
-- **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA, SIGMA, MITRE ATT&CK® (Threat-Hunting), Splunk & Integrations, ELK
-- **CloudSec:** AWS IAM, Hetzner, Vultr
-- **Networking:** Cisco Packer Tracer, Fortinet, Windows Firewall, UFW, PfSense, Tailscale VPN, Wireshark 
+* **Secure Infrastructure:** Internal Networks, RBAC, 2FA/MFA, SSO, Encrypted Data Handling, Rate Limiting, Reverse Proxy, CSRF & Session Management
+* **Languages:** C++, C, Rust, x64 Assembly, C#/.NET 9, Python, JavaScript, PowerShell, Batch (CMD), SQL, Three.js, KQL, WebGL
+* **Development:** Visual Studio, VS Code, RustRover, GitHub, CI/CD, Docker, Kubernetes
+* **Windows:** Windows API, PowerShell, Event Tracing for Windows (ETW), Active Directory (AD), Windows Management Instrumentation (WMI), Component Object Model (COM), Kernel-Mode Driver Framework (KMDF), Extended Page Tables (EPT)
+* **Linux:** AIDE, Suricata, LXD, libvirt/QEMU, `strace`, `nftables`, Cockpit
+* **Reverse Engineering:** IDA Pro, Binary Ninja, WinDbg, Frida, PE/ELF Analysis, x64 Debugging
+* **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA, Sigma, MITRE ATT&CK®, Threat Hunting, Splunk, ELK
+* **Cloud Security:** AWS IAM, Hetzner, Vultr
+* **Networking:** Cisco Packet Tracer, Fortinet, Windows Firewall, UFW, pfSense, Tailscale, Wireshark
+* **Security Frameworks:** SOC 2, OWASP ASVS, NIST CSF 2.0
 
-### Cyber Cert IV · CS50x · ITF+
+### Education & Certifications
+
+Cyber Cert IV · CS50x · CompTIA ITF+
 
 **Contact:** [damon@titansoftwork.com](mailto:damon@titansoftwork.com)
