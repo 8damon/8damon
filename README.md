@@ -8,7 +8,7 @@ Windows Security Engineering, Malware Analysis & Response, Reverse Engineering, 
 - **Development**: Visual Studio, VSCode, RustRover, GitHub, CI/CD, Docker, K8s
 - **Platforms:** Windows (Enterprise, Server Core), Linux (Ubuntu Server, Debian, Kali), KVM (x86_64), VMware, Proxmox VE
 - **Windows:** Windows API, Powershell, Event-Tracing for Windows (ETW), Active Directory (AD), Windows-Management-Interface (WMI), Component-Object-Model (COM), WDF/Kernel-Mode Driver-Framework (KMDF), EPT
-- **Linux** AIDE, Suricata, LXD, Libvirt/QEMU, strace, nftables, Cockpit
+- **Linux:** AIDE, Suricata, LXD, Libvirt/QEMU, strace, nftables, Cockpit
 - **Reverse engineering:** RESX, IDA Pro, WinDbg, Binary Ninja, Frida, Sysmon
 - **Threat Detection:** Microsoft Defender for Endpoint (EDR), Kaspersky Next Optimum (EDR), YARA, SIGMA, MITRE ATT&CK® (Threat-Hunting), Splunk & Integrations, ELK
 - **CloudSec:** AWS IAM, Hetzner, Vultr
