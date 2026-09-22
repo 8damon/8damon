@@ -1,4 +1,12 @@
-Windows Security Engineering/Software Development, Vulnerability Analysis, Malware Analysis & Response, Reverse Engineering, Remote Infrastructure.
+Windows Security Engineering, Software Development, Vulnerability Research, Malware Analysis & Response, Reverse Engineering, Infrastructure Security.
+
+## Security Research & Disclosures
+
+| Project | Finding | Reference |
+| :--- | :--- | :--- |
+| **NSA Ghidra** | Denial of Service | [GHSA-vxmq-6v38-hgf6](https://github.com/NationalSecurityAgency/ghidra/security/advisories/GHSA-vxmq-6v38-hgf6) |
+| **OpenEDR** | Privilege Escalation / Denial of Service | [Public Disclosure](https://github.com/ComodoSecurity/openedr/issues/56) |
+| **x64dbg** | Denial of Service | [Fix / PR #3945](https://github.com/x64dbg/x64dbg/pull/3945) |
 
 ## [Writeups](https://ryftenius.com/insight/) & [Projects](https://ryftenius.com/capability/)
 
