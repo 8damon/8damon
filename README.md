@@ -1,6 +1,6 @@
 Windows Security Engineering, Software Development, Vulnerability Research, Malware Analysis & Response, Reverse Engineering, Infrastructure Security.
 
-## Security Research & Disclosures
+## [Security Research & Disclosures](https://ryftenius.com/research/)
 
 | Project | Finding | Reference |
 | :--- | :--- | :--- |
