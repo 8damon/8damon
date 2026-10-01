@@ -2,12 +2,6 @@ Windows Security Engineering, Software Development, Vulnerability Research, Malw
 
 ## [Security Research & Disclosures](https://ryftenius.com/research/)
 
-| Project | Finding | Reference |
-| :--- | :--- | :--- |
-| **NSA Ghidra** | Denial of Service | [GHSA-vxmq-6v38-hgf6](https://github.com/NationalSecurityAgency/ghidra/security/advisories/GHSA-vxmq-6v38-hgf6) |
-| **OpenEDR** | Privilege Escalation / Denial of Service | [Public Disclosure](https://github.com/ComodoSecurity/openedr/issues/56) |
-| **x64dbg** | Denial of Service | [Fix / PR #3945](https://github.com/x64dbg/x64dbg/pull/3945) |
-
 ## [Writeups](https://ryftenius.com/insight/) & [Projects](https://ryftenius.com/capability/)
 
 * **Vulnerability Research:** Windows Internals, Windows Kernel, Vulnerability Research, Zero-Day Research, Exploit Development, Crash Analysis, Root Cause Analysis, PVR, CVSS, CWE, Responsible Disclosure
